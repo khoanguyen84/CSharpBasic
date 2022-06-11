@@ -1,0 +1,16 @@
+D:\CSharpBasic\ProductManagement\bin\Debug\net5.0\ProductManagement.exe
+D:\CSharpBasic\ProductManagement\bin\Debug\net5.0\ProductManagement.deps.json
+D:\CSharpBasic\ProductManagement\bin\Debug\net5.0\ProductManagement.runtimeconfig.json
+D:\CSharpBasic\ProductManagement\bin\Debug\net5.0\ProductManagement.runtimeconfig.dev.json
+D:\CSharpBasic\ProductManagement\bin\Debug\net5.0\ProductManagement.dll
+D:\CSharpBasic\ProductManagement\bin\Debug\net5.0\ref\ProductManagement.dll
+D:\CSharpBasic\ProductManagement\bin\Debug\net5.0\ProductManagement.pdb
+D:\CSharpBasic\ProductManagement\obj\Debug\net5.0\ProductManagement.csproj.AssemblyReference.cache
+D:\CSharpBasic\ProductManagement\obj\Debug\net5.0\ProductManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpBasic\ProductManagement\obj\Debug\net5.0\ProductManagement.AssemblyInfoInputs.cache
+D:\CSharpBasic\ProductManagement\obj\Debug\net5.0\ProductManagement.AssemblyInfo.cs
+D:\CSharpBasic\ProductManagement\obj\Debug\net5.0\ProductManagement.csproj.CoreCompileInputs.cache
+D:\CSharpBasic\ProductManagement\obj\Debug\net5.0\ProductManagement.dll
+D:\CSharpBasic\ProductManagement\obj\Debug\net5.0\ref\ProductManagement.dll
+D:\CSharpBasic\ProductManagement\obj\Debug\net5.0\ProductManagement.pdb
+D:\CSharpBasic\ProductManagement\obj\Debug\net5.0\ProductManagement.genruntimeconfig.cache

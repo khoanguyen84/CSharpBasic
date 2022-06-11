@@ -1,0 +1,16 @@
+D:\CSharpBasic\OOP_2\obj\Debug\net5.0\OOP_2.csproj.AssemblyReference.cache
+D:\CSharpBasic\OOP_2\obj\Debug\net5.0\OOP_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpBasic\OOP_2\obj\Debug\net5.0\OOP_2.AssemblyInfoInputs.cache
+D:\CSharpBasic\OOP_2\obj\Debug\net5.0\OOP_2.AssemblyInfo.cs
+D:\CSharpBasic\OOP_2\obj\Debug\net5.0\OOP_2.csproj.CoreCompileInputs.cache
+D:\CSharpBasic\OOP_2\bin\Debug\net5.0\OOP_2.exe
+D:\CSharpBasic\OOP_2\bin\Debug\net5.0\OOP_2.deps.json
+D:\CSharpBasic\OOP_2\bin\Debug\net5.0\OOP_2.runtimeconfig.json
+D:\CSharpBasic\OOP_2\bin\Debug\net5.0\OOP_2.runtimeconfig.dev.json
+D:\CSharpBasic\OOP_2\bin\Debug\net5.0\OOP_2.dll
+D:\CSharpBasic\OOP_2\bin\Debug\net5.0\ref\OOP_2.dll
+D:\CSharpBasic\OOP_2\bin\Debug\net5.0\OOP_2.pdb
+D:\CSharpBasic\OOP_2\obj\Debug\net5.0\OOP_2.dll
+D:\CSharpBasic\OOP_2\obj\Debug\net5.0\ref\OOP_2.dll
+D:\CSharpBasic\OOP_2\obj\Debug\net5.0\OOP_2.pdb
+D:\CSharpBasic\OOP_2\obj\Debug\net5.0\OOP_2.genruntimeconfig.cache

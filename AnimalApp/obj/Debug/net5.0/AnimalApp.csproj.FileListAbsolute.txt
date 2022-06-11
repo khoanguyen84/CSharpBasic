@@ -1,0 +1,16 @@
+D:\CSharpBasic\AnimalApp\obj\Debug\net5.0\AnimalApp.csproj.AssemblyReference.cache
+D:\CSharpBasic\AnimalApp\obj\Debug\net5.0\AnimalApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpBasic\AnimalApp\obj\Debug\net5.0\AnimalApp.AssemblyInfoInputs.cache
+D:\CSharpBasic\AnimalApp\obj\Debug\net5.0\AnimalApp.AssemblyInfo.cs
+D:\CSharpBasic\AnimalApp\obj\Debug\net5.0\AnimalApp.csproj.CoreCompileInputs.cache
+D:\CSharpBasic\AnimalApp\bin\Debug\net5.0\AnimalApp.exe
+D:\CSharpBasic\AnimalApp\bin\Debug\net5.0\AnimalApp.deps.json
+D:\CSharpBasic\AnimalApp\bin\Debug\net5.0\AnimalApp.runtimeconfig.json
+D:\CSharpBasic\AnimalApp\bin\Debug\net5.0\AnimalApp.runtimeconfig.dev.json
+D:\CSharpBasic\AnimalApp\bin\Debug\net5.0\AnimalApp.dll
+D:\CSharpBasic\AnimalApp\bin\Debug\net5.0\ref\AnimalApp.dll
+D:\CSharpBasic\AnimalApp\bin\Debug\net5.0\AnimalApp.pdb
+D:\CSharpBasic\AnimalApp\obj\Debug\net5.0\AnimalApp.dll
+D:\CSharpBasic\AnimalApp\obj\Debug\net5.0\ref\AnimalApp.dll
+D:\CSharpBasic\AnimalApp\obj\Debug\net5.0\AnimalApp.pdb
+D:\CSharpBasic\AnimalApp\obj\Debug\net5.0\AnimalApp.genruntimeconfig.cache
