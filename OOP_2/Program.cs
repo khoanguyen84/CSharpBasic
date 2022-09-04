@@ -6,7 +6,7 @@ namespace OOP_2
     {
         static void Main(string[] args)
         {
-            Staff khoa = new Staff();
+            Staff khoa = new Staff(1, "Vuong", 18);
             Console.WriteLine(khoa.ToString());
         }
     }
