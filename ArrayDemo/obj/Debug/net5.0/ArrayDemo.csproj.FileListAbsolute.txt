@@ -1,0 +1,16 @@
+D:\CSharpBasic\ArrayDemo\obj\Debug\net5.0\ArrayDemo.csproj.AssemblyReference.cache
+D:\CSharpBasic\ArrayDemo\obj\Debug\net5.0\ArrayDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpBasic\ArrayDemo\obj\Debug\net5.0\ArrayDemo.AssemblyInfoInputs.cache
+D:\CSharpBasic\ArrayDemo\obj\Debug\net5.0\ArrayDemo.AssemblyInfo.cs
+D:\CSharpBasic\ArrayDemo\obj\Debug\net5.0\ArrayDemo.csproj.CoreCompileInputs.cache
+D:\CSharpBasic\ArrayDemo\bin\Debug\net5.0\ArrayDemo.exe
+D:\CSharpBasic\ArrayDemo\bin\Debug\net5.0\ArrayDemo.deps.json
+D:\CSharpBasic\ArrayDemo\bin\Debug\net5.0\ArrayDemo.runtimeconfig.json
+D:\CSharpBasic\ArrayDemo\bin\Debug\net5.0\ArrayDemo.runtimeconfig.dev.json
+D:\CSharpBasic\ArrayDemo\bin\Debug\net5.0\ArrayDemo.dll
+D:\CSharpBasic\ArrayDemo\bin\Debug\net5.0\ref\ArrayDemo.dll
+D:\CSharpBasic\ArrayDemo\bin\Debug\net5.0\ArrayDemo.pdb
+D:\CSharpBasic\ArrayDemo\obj\Debug\net5.0\ArrayDemo.dll
+D:\CSharpBasic\ArrayDemo\obj\Debug\net5.0\ref\ArrayDemo.dll
+D:\CSharpBasic\ArrayDemo\obj\Debug\net5.0\ArrayDemo.pdb
+D:\CSharpBasic\ArrayDemo\obj\Debug\net5.0\ArrayDemo.genruntimeconfig.cache

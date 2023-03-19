@@ -1,0 +1,16 @@
+D:\CSharpBasic\Menu\bin\Debug\net5.0\Menu.exe
+D:\CSharpBasic\Menu\bin\Debug\net5.0\Menu.deps.json
+D:\CSharpBasic\Menu\bin\Debug\net5.0\Menu.runtimeconfig.json
+D:\CSharpBasic\Menu\bin\Debug\net5.0\Menu.runtimeconfig.dev.json
+D:\CSharpBasic\Menu\bin\Debug\net5.0\Menu.dll
+D:\CSharpBasic\Menu\bin\Debug\net5.0\ref\Menu.dll
+D:\CSharpBasic\Menu\bin\Debug\net5.0\Menu.pdb
+D:\CSharpBasic\Menu\obj\Debug\net5.0\Menu.csproj.AssemblyReference.cache
+D:\CSharpBasic\Menu\obj\Debug\net5.0\Menu.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpBasic\Menu\obj\Debug\net5.0\Menu.AssemblyInfoInputs.cache
+D:\CSharpBasic\Menu\obj\Debug\net5.0\Menu.AssemblyInfo.cs
+D:\CSharpBasic\Menu\obj\Debug\net5.0\Menu.csproj.CoreCompileInputs.cache
+D:\CSharpBasic\Menu\obj\Debug\net5.0\Menu.dll
+D:\CSharpBasic\Menu\obj\Debug\net5.0\ref\Menu.dll
+D:\CSharpBasic\Menu\obj\Debug\net5.0\Menu.pdb
+D:\CSharpBasic\Menu\obj\Debug\net5.0\Menu.genruntimeconfig.cache

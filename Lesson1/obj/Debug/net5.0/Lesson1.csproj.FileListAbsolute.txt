@@ -1,0 +1,16 @@
+D:\CSharpBasic\Lesson1\bin\Debug\net5.0\Lesson1.exe
+D:\CSharpBasic\Lesson1\bin\Debug\net5.0\Lesson1.deps.json
+D:\CSharpBasic\Lesson1\bin\Debug\net5.0\Lesson1.runtimeconfig.json
+D:\CSharpBasic\Lesson1\bin\Debug\net5.0\Lesson1.runtimeconfig.dev.json
+D:\CSharpBasic\Lesson1\bin\Debug\net5.0\Lesson1.dll
+D:\CSharpBasic\Lesson1\bin\Debug\net5.0\ref\Lesson1.dll
+D:\CSharpBasic\Lesson1\bin\Debug\net5.0\Lesson1.pdb
+D:\CSharpBasic\Lesson1\obj\Debug\net5.0\Lesson1.csproj.AssemblyReference.cache
+D:\CSharpBasic\Lesson1\obj\Debug\net5.0\Lesson1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpBasic\Lesson1\obj\Debug\net5.0\Lesson1.AssemblyInfoInputs.cache
+D:\CSharpBasic\Lesson1\obj\Debug\net5.0\Lesson1.AssemblyInfo.cs
+D:\CSharpBasic\Lesson1\obj\Debug\net5.0\Lesson1.csproj.CoreCompileInputs.cache
+D:\CSharpBasic\Lesson1\obj\Debug\net5.0\Lesson1.dll
+D:\CSharpBasic\Lesson1\obj\Debug\net5.0\ref\Lesson1.dll
+D:\CSharpBasic\Lesson1\obj\Debug\net5.0\Lesson1.pdb
+D:\CSharpBasic\Lesson1\obj\Debug\net5.0\Lesson1.genruntimeconfig.cache

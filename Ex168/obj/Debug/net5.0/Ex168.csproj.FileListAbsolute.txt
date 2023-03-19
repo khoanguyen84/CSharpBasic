@@ -1,0 +1,16 @@
+D:\CSharpBasic\Ex168\obj\Debug\net5.0\Ex168.csproj.AssemblyReference.cache
+D:\CSharpBasic\Ex168\obj\Debug\net5.0\Ex168.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpBasic\Ex168\obj\Debug\net5.0\Ex168.AssemblyInfoInputs.cache
+D:\CSharpBasic\Ex168\obj\Debug\net5.0\Ex168.AssemblyInfo.cs
+D:\CSharpBasic\Ex168\obj\Debug\net5.0\Ex168.csproj.CoreCompileInputs.cache
+D:\CSharpBasic\Ex168\bin\Debug\net5.0\Ex168.exe
+D:\CSharpBasic\Ex168\bin\Debug\net5.0\Ex168.deps.json
+D:\CSharpBasic\Ex168\bin\Debug\net5.0\Ex168.runtimeconfig.json
+D:\CSharpBasic\Ex168\bin\Debug\net5.0\Ex168.runtimeconfig.dev.json
+D:\CSharpBasic\Ex168\bin\Debug\net5.0\Ex168.dll
+D:\CSharpBasic\Ex168\bin\Debug\net5.0\ref\Ex168.dll
+D:\CSharpBasic\Ex168\bin\Debug\net5.0\Ex168.pdb
+D:\CSharpBasic\Ex168\obj\Debug\net5.0\Ex168.dll
+D:\CSharpBasic\Ex168\obj\Debug\net5.0\ref\Ex168.dll
+D:\CSharpBasic\Ex168\obj\Debug\net5.0\Ex168.pdb
+D:\CSharpBasic\Ex168\obj\Debug\net5.0\Ex168.genruntimeconfig.cache
